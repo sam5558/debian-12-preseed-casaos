@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+/root/casaos_installation.sh
+rm -f /etc/rc.local 
+exit 0
